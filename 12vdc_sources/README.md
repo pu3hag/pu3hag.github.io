@@ -5,3 +5,5 @@
 * Wondom 3S 18650 LITHIUM BATTERY CHARGER AND BALANCE PROTECTION BOARD - BCPB2[702]
   * http://store.sure-electronics.com/product/702
   * https://www.youtube.com/watch?v=Gs7hVX8Pp9Q
+* Radio Prepper
+  * https://www.youtube.com/watch?v=CdudCj-29GI
