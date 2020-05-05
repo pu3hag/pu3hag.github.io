@@ -15,3 +15,4 @@
     ( ( ping -W 1 -c 1 $IP > /dev/null && echo -en "\n" `date +"%F %T"` "\t$IP up." ) & ) ; \
     done ; echo "Completed."
 
+EOF
