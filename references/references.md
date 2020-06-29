@@ -1,5 +1,5 @@
 # References
-## Power-supplies
+## Power supplies
 
 |Date|Author|Title|URL|Comment|
 |----|------|-----|---|-|
@@ -7,3 +7,8 @@
 |2020-06-29|Robert ́s kleine Welt|Get rid of HF: Suppress the switched-mode power supply yourself with external components! (in german)|https://www.youtube.com/watch?v=1kFAyaeHwS8|Explains how to mitigate noise of SPSU|
 |2020-06-29|AMB Laboratories|The σ11 regulated power supply (Sigma 11)|https://www.amb.org/audio/sigma11/|Open-source Linear PSU with excellent regulation|
 |2020-06-29|AliExpress, several|AliExpress Sigma11 DIY kit|https://www.aliexpress.com/item/33009803654.html|DIY Kit from AE|
+
+## Ferrite antennas
+|Date|Author|Title|URL|Comment|
+|----|------|-----|---|-|
+|2020-06-29|KainkaLabs|Q-factor measurements of different LW-Antennas|https://www.youtube.com/watch?v=sJ3mRAVo5n0|Q-factor comparison measurements for different AM magnetic antennas starting with LW-coils using a function generator, osciloscope and count the number of peaks till half-power, then mutiplying by 5|
