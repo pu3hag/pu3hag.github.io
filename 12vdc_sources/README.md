@@ -1,3 +1,7 @@
+## 13.8v 12v Power Supply using negative-rail regulation with grounded pass transistors
+* [13.8V 20A linear power supply](https://ludens.cl/Electron/Ps20/Ps20.html)
+* [Simple High Current DC](http://www.vk6fh.com/vk6fh/dcamp-01.htm)
+
 ## Charging board with battery holders
 * Dayton Audio LBB-3 3 x 18650 Lithium Battery Charger Board / Module 12V with Charge Protection
   * https://www.parts-express.com/dayton-audio-lbb-3-3-x-18650-lithium-battery-charger-board---module-12v-with-charge-protect--325-200
