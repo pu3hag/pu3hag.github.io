@@ -5,6 +5,9 @@
 * Yaesu FP-7575HD
 * [ZL2PD A Linear 12VDC 2Amp AC Power Supply](https://www.zl2pd.com/KNQ7extras.html)
 
+## eBay Kits
+* [Z3TT Mile: Some time ago, I have been ordered "0-30V 2mA-3A Adjustable DC Regulated Power Supply DIY Kit" from China (via "ebay"). I decided to see what I will get and whether it will be good. I found that this cheap kit complete enables to build a very good quality laboratory power supply with features as it was advertised.](https://www.qsl.net/z33t/dc_0-30v_0-3A_eng.html)
+
 ## Charging board with battery holders
 * Dayton Audio LBB-3 3 x 18650 Lithium Battery Charger Board / Module 12V with Charge Protection
   * https://www.parts-express.com/dayton-audio-lbb-3-3-x-18650-lithium-battery-charger-board---module-12v-with-charge-protect--325-200
