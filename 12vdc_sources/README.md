@@ -8,6 +8,9 @@
 ## eBay Kits
 * [Z3TT Mile: Some time ago, I have been ordered "0-30V 2mA-3A Adjustable DC Regulated Power Supply DIY Kit" from China (via "ebay"). I decided to see what I will get and whether it will be good. I found that this cheap kit complete enables to build a very good quality laboratory power supply with features as it was advertised.](https://www.qsl.net/z33t/dc_0-30v_0-3A_eng.html)
 
+# Cool DIY
+* [Mini Bench PSU An adjustable Bench PSU constructed out of salvaged parts and minimal circuitry Tron9000 03/30/2017 at 21:28](https://hackaday.io/project/20791-mini-bench-psu/details)
+
 ## Charging board with battery holders
 * Dayton Audio LBB-3 3 x 18650 Lithium Battery Charger Board / Module 12V with Charge Protection
   * https://www.parts-express.com/dayton-audio-lbb-3-3-x-18650-lithium-battery-charger-board---module-12v-with-charge-protect--325-200
