@@ -2,6 +2,8 @@
 * [13.8V 20A linear power supply](https://ludens.cl/Electron/Ps20/Ps20.html)
 * [Simple High Current DC](http://www.vk6fh.com/vk6fh/dcamp-01.htm)
 * [WB4KDI Upside Down Power Supplies](https://www.qsl.net/wb4kdi/PowerSupply/UpsideDown.html)
+* Yaesu FP-7575HD
+* [ZL2PD A Linear 12VDC 2Amp AC Power Supply](https://www.zl2pd.com/KNQ7extras.html)
 
 ## Charging board with battery holders
 * Dayton Audio LBB-3 3 x 18650 Lithium Battery Charger Board / Module 12V with Charge Protection
