@@ -8,6 +8,7 @@
 * https://www.pasternack.com/images/ProductPDF/PE4342.pdf
 * https://www.mouser.com/datasheet/2/18/C83-1r-714396.pdf
 * https://www.mouser.com/datasheet/2/18/182114-712216.pdf
+* https://www.showmecables.com/blog/post/coaxial-coax-connectors
 
 <hr>
 
