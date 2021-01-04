@@ -9,20 +9,23 @@
 * https://www.mouser.com/datasheet/2/18/C83-1r-714396.pdf
 * https://www.mouser.com/datasheet/2/18/182114-712216.pdf
 
+<hr>
+
 Plug / Make Connector 
 
-| Measurement | Value mm | Value pol
-|---|---|
+
+| Measurement | Value mm | Value pol |
+|---|---|---|
 | PL-259 Outer Dia | 17.653 | 0.695 |
 | Mini-UHF Outer Dia | 11.5 | 0.453 |
 | PL-259 Pin Dia | 3.175 | 0.125 |
 | Mini-UHF Pin Dia | 2.1* | .083* |
 
-* Largest dia, at the base o ping. Gets thinner to the end.
+Largest dia, at the base o ping. Gets thinner to the end.
 
 Jack / Female
 
-| Meas | Value mm | Value pol
+| Meas | Value mm | Value pol|
 |---|---|---|
 | SO-239 Outer dia | 15.87 | 0.625 - 24 threads per inch |
 | Mini-UHF Outer dia | 9.53 | 0.375 - 24 threads per inch
