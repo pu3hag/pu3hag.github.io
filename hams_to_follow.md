@@ -12,4 +12,5 @@ PY2WM-SK|DeMarco|
 |Picco|https://blogdopicco.blogspot.com/
 ||https://www.qsl.net/pp5vx/
 ||813
+EA5IW|Ramón| Youtube QRP CW | https://www.youtube.com/channel/UCdqWV0nPVEeso6uth7uRk6Q/ |
 
