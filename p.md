@@ -2,7 +2,7 @@
 
 ## KiwiSDR
 * [Brazil / SP / SBC PY2-81502 PY2PLL](http://186.193.231.135:8073/)
-* [Brazil / SP / SL Paraitinga] (http://paraitinga.proxy.kiwisdr.com:8073/)
+* [Brazil / SP / SL Paraitinga](http://paraitinga.proxy.kiwisdr.com:8073/)
 * [Brazil / SP / Pardinho](http://pardinho.kiwisdr.com.br:8073/)
 * [Brazil / RJ / Paraty PY1EME](http://py1eme.homeip.net:8073/)
 * [Brazil / DF / BSB Kiwi#1 PT2FHC](http://kiwibsb.ddns.net:8073/)
