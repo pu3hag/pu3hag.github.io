@@ -14,4 +14,6 @@
 
 # Ham Radio
 ## Fabricantes de antenas no Brasil
-* [Antenas QRV de PY2WY](https://py2wy-antenas.wixsite.com/)
+| Fabricante | URL | Comentário |
+|------------|-----|------------|
+| Antenas QRV de PY2WY Wanderley Rossi (ROS) | https://py2wy-antenas.wixsite.com/ https://www.youtube.com/channel/UCloi4GXqCHklh8BZ-OnBgGQ/videos | Canal no Youtube mostra a confeção de componentes das antenas. Também vídeo mostrando banda passante da antena 40m de 150KHz com um 'dip' bem no meio. Etes detalhes em vídeo são pontos positivos ao fabricante. |
