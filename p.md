@@ -1,3 +1,7 @@
+# My data
+PU3HAG
+GF49jx
+
 # SWL
 
 ## KiwiSDR
