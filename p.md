@@ -30,8 +30,14 @@ than-normal frequencies. However, remember that it takes a few days of high valu
 * [Brazil / DF / BSB Kiwi#2 PT2FHC](http://kiwibsb.ddns.net:8074/)
 * [Brazil / PR / CMO PW5W CMDX Group](http://pw5w.homeip.net:8073/)
 
-## MW References 
+## Station lists / Lista de estações
+## Brasil
 * [Lista Brasileira de Emissoras de Ondas Médias](https://www.ondascurtas.com/lista-brasileira-de-emissoras-de-ondas-medias/)
+## RS
+* [Rodrigo Fantinel Radiodifusão](http://rfradiodifusao.com.br/)
+  * [Dial AM](http://rfradiodifusao.com.br/dial-am/)
+  * [Dial FM](http://rfradiodifusao.com.br/dial-fm/)
+  * [Dial FM estendido](http://rfradiodifusao.com.br/dial-efm/)
 
 # Ham Radio
 ## Fabricantes de antenas no Brasil
