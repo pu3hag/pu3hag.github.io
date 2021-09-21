@@ -2,6 +2,21 @@
 PU3HAG
 GF49jx
 
+# Propagation status and forecast / Estado e previsão da propagação
+
+* [Penticton Solar Radio Flux at 10.7cm, Time Series](https://lasp.colorado.edu/lisird/data/penticton_radio_flux/)
+
+  > ## Solar Flux
+  >
+  > A measure known as the solar flux is used as the basic indicator of solar activity, and to determine the level or radiation being received from the Sun. The solar flux is measured in solar flux units (SFU) and is the amount of radio noise or flux that is emitted at a frequency of 2800 MHz (10.7 cm). The Penticton Radio Observatory in British Columbia, Canada reports this measure daily. The solar flux is closely related to the amount of ionization and hence the electron concentration in the F2 region. As a result it gives a very good indication of conditions for long-distance communication.
+  >
+  > The figure for the solar flux can vary from as low as 50 or so to as high as 300. Low values indicate that the maximum useable frequency will be low and overall conditions will not be very good, particularly on the higher HF bands. Conversely, high values generally indicate there is sufficient ionization to support long-distance communication at higher-
+than-normal frequencies. However, remember that it takes a few days of high values for conditions to improve. Typically values in excess of 200 will be measured during the peak of a sunspot cycle with high values of up to 300 being experienced for shorter periods.
+  >
+  > [Poole, Ian G3YWX. Understanding Solar Indices. QST September 2002.](https://www.arrl.org/files/file/Technology/tis/info/pdf/0209038.pdf)
+
+
+
 # SWL
 
 ## KiwiSDR
