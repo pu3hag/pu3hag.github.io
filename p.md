@@ -4,6 +4,8 @@ GF49jx
 
 # Propagation status and forecast / Estado e previsão da propagação
 
+* [William R. Hepburn's Tropospheric Ducting Forecast (Central SAm)](https://www.dxinfocentre.com/tropo_sam.html)
+* [F5LEN Pascal Grandjean Tropospheric Propagation Forecast Worldwide](http://tropo.f5len.org/WW/)
 * [Penticton Solar Radio Flux at 10.7cm, Time Series](https://lasp.colorado.edu/lisird/data/penticton_radio_flux/)
 
   > ## Solar Flux
