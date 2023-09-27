@@ -1,0 +1,39 @@
+# SDR Sharp on Wine
+
+Based on https://gist.github.com/grahamwhaley/094d62d88575141377f02fa92342fb7e
+and https://wiki.winehq.org/Debian
+
+sudo dpkg --add-architecture i386
+sudo mkdir -pm755 /etc/apt/keyrings
+sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bullseye/winehq-bullseye.sources
+sudo apt update 
+sudo apt install --install-recommends winehq-stable
+sudo apt install zenity cabextract unzip p7zip wget
+
+Download winetricks (helps install needed runtimes) from https://wiki.winehq.org/Winetricks
+wget  https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks
+chmod +x winetricks
+mv winetricks ~/.local/bin
+
+WINEPREFIX="$HOME/prefix32" WINEARCH=win32 ~/.local/bin/winetricks verdana
+
+
+
+Download sdrsharp and unzip
+cd to dictory
+
+WINEPREFIX="$HOME/prefix32" WINEARCH=win32 wine cmd
+.\sdrsharp.exe
+
+or
+
+WINEPREFIX="$HOME/prefix32" WINEARCH=win32 wine ${HOME}/dxapps/sdrsharp-x86_revision_1919_2023-07-28/SDRSharp.exe
+
+
+
+Run and debug
+WINEPREFIX="$HOME/prefix32" WINEARCH=win32 wine cmd
+
+
+
